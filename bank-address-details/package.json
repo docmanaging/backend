@@ -1,0 +1,13 @@
+{
+  "name": "wallet-manager-test-app",
+  "version": "1.0.0",
+  "description": "wallet manager test app",
+  "main": "index.js",
+  "author": "Veera Reddy Kunam",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.449.0",
+    "mysql": "^2.17.1",
+    "util": "^0.12.0"
+  }
+}

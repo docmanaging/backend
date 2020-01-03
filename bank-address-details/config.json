@@ -1,0 +1,6 @@
+{
+    "dbhost": "waller-manger-staging.crfugyquo02w.eu-west-2.rds.amazonaws.com",
+    "dbname": "walletmanagerstaging",
+    "dbuser": "walletmanager123",
+    "dbpassword": "!Qazxsw2"
+}
